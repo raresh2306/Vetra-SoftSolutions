@@ -236,3 +236,14 @@ html {
   
   .show { opacity: 0.75;}
 
+
+  .modal-content {
+      background-color: var(--bs-dark);
+      opacity: 1;
+      /* Fully opaque */
+  }
+
+  .modal {
+      background: #000000;
+      opacity: 0.95;
+  }
